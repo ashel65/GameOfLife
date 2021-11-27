@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\alexs\OneDrive\Documents\Game of Life\Game of Life\Game of Life\main.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\alexs\OneDrive\Documents\Game of Life\Game of Life\Game of Life\main.cpp(35,9): warning C4101: 'j': unreferenced local variable
+C:\Users\alexs\OneDrive\Documents\Game of Life\Game of Life\Game of Life\main.cpp(35,6): warning C4101: 'i': unreferenced local variable
+  Game of Life.vcxproj -> C:\Users\alexs\OneDrive\Documents\Game of Life\Game of Life\Debug\Game of Life.exe
